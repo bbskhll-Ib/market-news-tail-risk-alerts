@@ -27,7 +27,8 @@ Market data are retrieved through `yfinance` for:
 
 Headline data must be obtained directly from the original Kaggle dataset:
 
-- Mahaptra, D.D. (2024), *S&P 500 with Financial News Headlines (2008–2024)*
+- [Mahaptra, D.D. (2024). *S&P 500 with Financial News Headlines (2008–2024)*]
+(https://www.kaggle.com/datasets/dyutidasmahaptra/s-and-p-500-with-financial-news-headlines-20082024)*
 
 The raw headline data and headline-level FinBERT outputs are not included in
 this repository because they are subject to the original data provider's

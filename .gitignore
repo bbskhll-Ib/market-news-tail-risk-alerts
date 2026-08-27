@@ -1,1 +1,17 @@
+# Raw and provider-restricted data
+sp500_headlines_2008_2024.csv
+*.parquet
 
+# Generated outputs and caches
+outputs_best_corrected/
+__pycache__/
+*.pyc
+
+# Python environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
